@@ -52,7 +52,7 @@ function initNavigation() {
 // Typewriter
 function initTypewriter() {
     const typewriter = document.getElementById('typewriter');
-    const text = "Hi, I'm Prathama Dutta";
+    const text = "Hi, I'm Sujan Roy";
     let index = 0;
     typewriter.textContent = '';
 
