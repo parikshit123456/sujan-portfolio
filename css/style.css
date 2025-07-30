@@ -1390,3 +1390,12 @@ p {
     display: block;
     color: var(--secondary-color);
 }
+
+@media (max-width: 768px) {
+  .footer-bottom-content {
+    align-items: center !important;
+    justify-content: center !important;
+    text-align: center !important;
+    flex-direction: column !important;
+  }
+}
