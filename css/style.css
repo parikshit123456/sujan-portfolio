@@ -1163,8 +1163,7 @@ p {
 
   .footer-section,
   .footer-contact,
-  .footer-links,
-  .footer-bottom-content {
+  .footer-links {
     align-items: flex-start !important;
     text-align: left !important;
   }
